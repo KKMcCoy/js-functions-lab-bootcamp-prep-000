@@ -3,12 +3,6 @@ function happyHolidays() {
   return "Happy holidays!";
 }
 
-var name;
-
-var holidays;
-
-var days;
-
 function happyHolidaysTo(name) {
   console.log(`Happy holidays, ${name}!`);
 }
